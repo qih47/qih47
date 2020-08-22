@@ -1,2 +1,11 @@
-## Yo Yo Yo, Hallo! I'm qih47 and qih15 also haha <img src="https://lh3.googleusercontent.com/HGl0ddo4mlNCzJn39IFUIwwyqBvV06MGgTIoW2MWnTbom8MPBHmAh-x2LOS0fV7LFJt4h1cyLp-ore93i1TKxTJ_DAT0Xb2XHsylxwH-xnurAyftI28ND07qnBhSBS4Z9aYoQJwXt2Uxx9446dCEUk2x__W3mizwQQhzoXCV33vGH45u3-vWBSG07IINmvL3JfRVUrWimYHv9AVaAyVLeyXC736DmcL_4cTfTp53cS7UUA-gQzNQNalEWrGYb4ajC9RvByRapI8Btm1ioEij5ibvo0XKI94sgXB419gr8xKo360dx7f5Hlt0EUpqRWd4e7wGHEyv0GploJIle4UQ1FuQQSwc5pOkx5gK1iFV-S6D492iQfLfNT3fnCFjh3blZy1NP0aX6lVJzFbrfFnFRBxRNWoPryU3jGvPiBKIyQUFjJtvw7MG4t3jZoW5Ei-cL0z6tevg2TdYdNr_FSRKeafBtwCeNsko3a5tLdaO-jD_Vjkim3S0E0QdMd_fQEZ8OopZsfqreHprUkS40mRzvRW9myoHLq9b3PwcSuoA_ifDUk6VcIptOCc2w6Yf1NoWDE2W29PFoHRhnG3QEaYvteVqkVQp1qAgvNIZuDbrJyeZMb_6gTHfLEMHFBSAVRbPT358GT4An5zV65vaQfa3I2L42QQhmlFTpycu4e5NZr3yUfp-nUXHE1Y0_FNbeQ=w1039-h779-no?authuser=0" width="50px">
-![Qisthi Iskandar Haqki github stats](https://github-readme-stats.vercel.app/api?username=qih47&show_icons=true&hide_border=true)
+## Yo Guys!, Hallo! I'm Qisthi Iskandar Haqiki  <img src="https://www.animatedimages.org/data/media/781/animated-indonesia-flag-image-0009.gif" width="50px">
+
+**Here is my portofolio as follows:**
+<img width="45%" height="20%" align="right" alt="Github" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9d5fad9a-a584-4c94-9713-1e015a1d59f8/d8obiv2-04b92a1f-7df2-45b9-a01d-b2b28bae8bb6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOWQ1ZmFkOWEtYTU4NC00Yzk0LTk3MTMtMWUwMTVhMWQ1OWY4XC9kOG9iaXYyLTA0YjkyYTFmLTdkZjItNDViOS1hMDFkLWIyYjI4YmFlOGJiNi5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.wGZ43vqzrnxnVQcOwHmAqU_LoduzwXnNAtj39QBZwgk" />
+
+- A ROM and Recovery maintainer for Sirius 
+- UNOFFICIAL ROM maintainer for ION OS, Stag OS, MSM-Xtended, & Rebellion OS
+- Recovery Maintainer for Pitchbalck Recovery Project and Orangefox
+  <a href="https://github.com/Qih47">
+    <img width="47%" align="left" alt="Qisthi Iskandar Haqki github stats" src="https://github-readme-stats.vercel.app/api?username=qih47&show_icons=true&hide_border=true&hide_border=true" />
+  </a>
