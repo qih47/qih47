@@ -22,7 +22,7 @@
 <p align="center"></br>
 </br>
 <img class="kiri" width="30%" height="30%" alt="zenx" style="float:left;display:block;margin:5px" src="https://cdn.techorfy.com/wp-content/uploads/2020/07/zenos-1024x575.png" />
-<img class="tengah" width="30%" height="30%" alt="pbrp" style="margin-left:auto;margin-right:auto;display:block;clear:both" src="https://lh3.googleusercontent.com/wXxkUstNWYFOrYLiFwday3Og2XY4GnIp9gbGwrLjk_WkG-4IfLQracZBZaVeSH_FkTjSsRHjFZluEooBpG7BHq641vNRUmdy63ZolP3aWwy9XRXqJK6iYw-B5dB_2Xac7WpN20w3SKZ69LFYYRgATl4Y1IwNKH3YIn_n5OKVFtl5s602SaNydmyUDljNAWRdBu-I6UhyqAHZyE4LkLG3BBEndLw4qIhS1sXuytm5iCQI-VibF30ox1ol0YwkqCoL4rXoHyFnKpC4bs4CHZqmEw12Q5V2REl0O7753YlsmiY88_myGYy1GJ_prmHmXFp31d9r5W8DKrAl-6O23ksfuUHS6pO5Ei_nttSLjXfhLE3mfn2S43X6S-hG4b5h3yKxt59Fq4y70-f6JWkSIq0Km3sBRSm1dG2CXtKs_E-GWjKA3_wRx-GAuODB-K5SRGAxPyVW8spOY0NeEl0ooPNQ2iW7zTq2w4KStYQZEzWPaEV_H4bUbRWL365rs_dCjjER5ttNAtqiDe6pbXOn5XvkUsKAUBvNteTBMIU98KCUZBk46BhdjK9agYmqZA2LNzc-gm99_pKcahEy4btybapYXqioJpeCjGQDVCsnxvMCeM3GvL85C0p2q42llTY08JzAuwhi0NBQZ76r4E_fEH5MG0Y07_YnGIUZPILzhJk0tZsCI1EBNudai1vCd90FiQ=w600-h338-no?authuser=0" />
+<img class="tengah" width="30%" height="30%" alt="pbrp" style="margin-left:auto;margin-right:auto;display:block;clear:both" src="https://lh3.googleusercontent.com/pw/ACtC-3dRaPXdgjyP_TBNkR2EFhdCsIsFYX2ddW4Ez8qFO40gWUCkM70egV1-5veCBHSRJSMtetyHxH2-d2Xw9wj_vtblRmzsmyKMffIVmx2WTCOGn0-t6ZdQH2hhGzyR30zyVcjJpW2PYKQwDs8I_z9_mR7Q=w600-h338-no?authuser=0" />
 <img class="kanan" width="30%" height="30%" alt="msm" style="float:right;display:block;clear:both;margin:5px" src="https://i.ytimg.com/vi/3uDtYBKYsPg/maxresdefault.jpg" />
 </p>
 </tr></table>
